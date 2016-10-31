@@ -1,5 +1,7 @@
 # Version Monitoring Chicken
 
+[![Build Status](https://travis-ci.org/apricat/version-monitoring-chicken.svg?branch=master)](https://travis-ci.org/apricat/version-monitoring-chicken)
+
 The Version Monitoring Chicken is a friendly bot that will parse provided RAW dependency json files on Github or Bitbucket to retrieve configured package versions. It then reports back it's finding through a Slack private channel.
 
 ![alt text][screenshot]
